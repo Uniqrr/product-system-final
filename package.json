@@ -1,0 +1,14 @@
+{
+  "name": "product-system",
+  "version": "1.0.0",
+  "description": "Product Management System",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build needed'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
